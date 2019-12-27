@@ -10,7 +10,7 @@
 
 ## heroku cli安装(node安装方式)
 
-    PS C:\Users\pjx\Desktop> npm install -g heroku
+    PS C:\***> npm install -g heroku
     npm WARN deprecated cross-spawn-async@2.2.5: cross-spawn no longer requires a build toolchain, use it instead
     C:\***\npm\heroku -> C:\***\AppData\Roaming\npm\node_modules\heroku\bin\run
     + heroku@7.35.1
@@ -27,7 +27,7 @@
     > heroku --version
     heroku/7.35.1 win32-x64 node-v8.9.3
     
-    PS C:\Users\pjx\Desktop> heroku login -i                                                                                heroku: Enter your login credentials
+    PS C:\***\Desktop> heroku login -i                                                                                heroku: Enter your login credentials
     Email: ***@***.com
     Password: *******************
     Logged in as ***@***.com
